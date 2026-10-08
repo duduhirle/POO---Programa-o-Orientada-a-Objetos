@@ -1,0 +1,21 @@
+C:\Users\52383977802\Desktop\CursoBackEndSenaiSCS\Csharp\cola-separada\5 - POO  - Programação Orientada a Objetos\FundamentosPOO\obj\Debug\net10.0\FundamentosPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52383977802\Desktop\CursoBackEndSenaiSCS\Csharp\cola-separada\5 - POO  - Programação Orientada a Objetos\FundamentosPOO\obj\Debug\net10.0\FundamentosPOO.AssemblyInfoInputs.cache
+C:\Users\52383977802\Desktop\CursoBackEndSenaiSCS\Csharp\cola-separada\5 - POO  - Programação Orientada a Objetos\FundamentosPOO\obj\Debug\net10.0\FundamentosPOO.AssemblyInfo.cs
+C:\Users\52383977802\Desktop\CursoBackEndSenaiSCS\Csharp\cola-separada\5 - POO  - Programação Orientada a Objetos\FundamentosPOO\obj\Debug\net10.0\FundamentosPOO.csproj.CoreCompileInputs.cache
+C:\Users\52383977802\Desktop\CursoBackEndSenaiSCS\Csharp\cola-separada\5 - POO  - Programação Orientada a Objetos\FundamentosPOO\obj\Debug\net10.0\FundamentosPOO.sourcelink.json
+C:\Users\52383977802\Desktop\CursoBackEndSenaiSCS\Csharp\POO  - Programação Orientada a Objetos\FundamentosPOO\obj\Debug\net10.0\FundamentosPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52383977802\Desktop\CursoBackEndSenaiSCS\Csharp\POO  - Programação Orientada a Objetos\FundamentosPOO\obj\Debug\net10.0\FundamentosPOO.AssemblyInfoInputs.cache
+C:\Users\52383977802\Desktop\CursoBackEndSenaiSCS\Csharp\POO  - Programação Orientada a Objetos\FundamentosPOO\obj\Debug\net10.0\FundamentosPOO.AssemblyInfo.cs
+C:\Users\52383977802\Desktop\CursoBackEndSenaiSCS\Csharp\POO  - Programação Orientada a Objetos\FundamentosPOO\obj\Debug\net10.0\FundamentosPOO.csproj.CoreCompileInputs.cache
+C:\Users\52383977802\Desktop\CursoBackEndSenaiSCS\Csharp\POO  - Programação Orientada a Objetos\FundamentosPOO\obj\Debug\net10.0\FundamentosPOO.sourcelink.json
+C:\Users\52383977802\Desktop\CursoBackEndSenaiSCS\Csharp\POO  - Programação Orientada a Objetos\FundamentosPOO\bin\Debug\net10.0\FundamentosPOO.exe
+C:\Users\52383977802\Desktop\CursoBackEndSenaiSCS\Csharp\POO  - Programação Orientada a Objetos\FundamentosPOO\bin\Debug\net10.0\FundamentosPOO.deps.json
+C:\Users\52383977802\Desktop\CursoBackEndSenaiSCS\Csharp\POO  - Programação Orientada a Objetos\FundamentosPOO\bin\Debug\net10.0\FundamentosPOO.runtimeconfig.json
+C:\Users\52383977802\Desktop\CursoBackEndSenaiSCS\Csharp\POO  - Programação Orientada a Objetos\FundamentosPOO\bin\Debug\net10.0\FundamentosPOO.dll
+C:\Users\52383977802\Desktop\CursoBackEndSenaiSCS\Csharp\POO  - Programação Orientada a Objetos\FundamentosPOO\bin\Debug\net10.0\FundamentosPOO.pdb
+C:\Users\52383977802\Desktop\CursoBackEndSenaiSCS\Csharp\POO  - Programação Orientada a Objetos\FundamentosPOO\obj\Debug\net10.0\FundamentosPOO.dll
+C:\Users\52383977802\Desktop\CursoBackEndSenaiSCS\Csharp\POO  - Programação Orientada a Objetos\FundamentosPOO\obj\Debug\net10.0\refint\FundamentosPOO.dll
+C:\Users\52383977802\Desktop\CursoBackEndSenaiSCS\Csharp\POO  - Programação Orientada a Objetos\FundamentosPOO\obj\Debug\net10.0\FundamentosPOO.pdb
+C:\Users\52383977802\Desktop\CursoBackEndSenaiSCS\Csharp\POO  - Programação Orientada a Objetos\FundamentosPOO\obj\Debug\net10.0\FundamentosPOO.genruntimeconfig.cache
+C:\Users\52383977802\Desktop\CursoBackEndSenaiSCS\Csharp\POO  - Programação Orientada a Objetos\FundamentosPOO\obj\Debug\net10.0\ref\FundamentosPOO.dll
+C:\Users\52383977802\Desktop\CursoBackEndSenaiSCS\Csharp\POO  - Programação Orientada a Objetos\FundamentosPOO\obj\Debug\net10.0\Fundamen.DDE989E5.Up2Date
