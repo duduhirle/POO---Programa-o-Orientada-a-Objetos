@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\52383977802\\Desktop\\CursoBackEndSenaiSCS\\Csharp\\exercicios\\5.1 - Exercicios POO Parte II\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C1C80CD-507B-4AAA-B502-4285F39A648A}|5.1 - Exercicios POO Parte II.csproj|c:\\users\\52383977802\\desktop\\cursobackendsenaiscs\\csharp\\exercicios\\5.1 - exercicios poo parte ii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C1C80CD-507B-4AAA-B502-4285F39A648A}|5.1 - Exercicios POO Parte II.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C1C80CD-507B-4AAA-B502-4285F39A648A}|5.1 - Exercicios POO Parte II.csproj|c:\\users\\52383977802\\desktop\\cursobackendsenaiscs\\csharp\\exercicios\\5.1 - exercicios poo parte ii\\cofrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C1C80CD-507B-4AAA-B502-4285F39A648A}|5.1 - Exercicios POO Parte II.csproj|solutionrelative:cofrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C1C80CD-507B-4AAA-B502-4285F39A648A}|5.1 - Exercicios POO Parte II.csproj|c:\\users\\52383977802\\desktop\\cursobackendsenaiscs\\csharp\\exercicios\\5.1 - exercicios poo parte ii\\temperatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C1C80CD-507B-4AAA-B502-4285F39A648A}|5.1 - Exercicios POO Parte II.csproj|solutionrelative:temperatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cofrinho.cs",
+              "DocumentMoniker": "C:\\Users\\52383977802\\Desktop\\CursoBackEndSenaiSCS\\Csharp\\exercicios\\5.1 - Exercicios POO Parte II\\Cofrinho.cs",
+              "RelativeDocumentMoniker": "Cofrinho.cs",
+              "ToolTip": "C:\\Users\\52383977802\\Desktop\\CursoBackEndSenaiSCS\\Csharp\\exercicios\\5.1 - Exercicios POO Parte II\\Cofrinho.cs",
+              "RelativeToolTip": "Cofrinho.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T00:12:02.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Temperatura.cs",
+              "DocumentMoniker": "C:\\Users\\52383977802\\Desktop\\CursoBackEndSenaiSCS\\Csharp\\exercicios\\5.1 - Exercicios POO Parte II\\Temperatura.cs",
+              "RelativeDocumentMoniker": "Temperatura.cs",
+              "ToolTip": "C:\\Users\\52383977802\\Desktop\\CursoBackEndSenaiSCS\\Csharp\\exercicios\\5.1 - Exercicios POO Parte II\\Temperatura.cs",
+              "RelativeToolTip": "Temperatura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T23:31:34.9Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\52383977802\\Desktop\\CursoBackEndSenaiSCS\\Csharp\\exercicios\\5.1 - Exercicios POO Parte II\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\52383977802\\Desktop\\CursoBackEndSenaiSCS\\Csharp\\exercicios\\5.1 - Exercicios POO Parte II\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T22:44:19.365Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

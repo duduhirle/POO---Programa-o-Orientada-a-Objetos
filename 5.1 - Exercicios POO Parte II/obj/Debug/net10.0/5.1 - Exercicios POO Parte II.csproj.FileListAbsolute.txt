@@ -1,0 +1,16 @@
+C:\Users\52383977802\Desktop\CursoBackEndSenaiSCS\Csharp\exercicios\5.1 - Exercicios POO Parte II\obj\Debug\net10.0\5.1 - Exercicios POO Parte II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52383977802\Desktop\CursoBackEndSenaiSCS\Csharp\exercicios\5.1 - Exercicios POO Parte II\obj\Debug\net10.0\5.1 - Exercicios POO Parte II.AssemblyInfoInputs.cache
+C:\Users\52383977802\Desktop\CursoBackEndSenaiSCS\Csharp\exercicios\5.1 - Exercicios POO Parte II\obj\Debug\net10.0\5.1 - Exercicios POO Parte II.AssemblyInfo.cs
+C:\Users\52383977802\Desktop\CursoBackEndSenaiSCS\Csharp\exercicios\5.1 - Exercicios POO Parte II\obj\Debug\net10.0\5.1 - Exercicios POO Parte II.csproj.CoreCompileInputs.cache
+C:\Users\52383977802\Desktop\CursoBackEndSenaiSCS\Csharp\exercicios\5.1 - Exercicios POO Parte II\obj\Debug\net10.0\5.1 - Exercicios POO Parte II.sourcelink.json
+C:\Users\52383977802\Desktop\CursoBackEndSenaiSCS\Csharp\exercicios\5.1 - Exercicios POO Parte II\bin\Debug\net10.0\5.1 - Exercicios POO Parte II.exe
+C:\Users\52383977802\Desktop\CursoBackEndSenaiSCS\Csharp\exercicios\5.1 - Exercicios POO Parte II\bin\Debug\net10.0\5.1 - Exercicios POO Parte II.deps.json
+C:\Users\52383977802\Desktop\CursoBackEndSenaiSCS\Csharp\exercicios\5.1 - Exercicios POO Parte II\bin\Debug\net10.0\5.1 - Exercicios POO Parte II.runtimeconfig.json
+C:\Users\52383977802\Desktop\CursoBackEndSenaiSCS\Csharp\exercicios\5.1 - Exercicios POO Parte II\bin\Debug\net10.0\5.1 - Exercicios POO Parte II.dll
+C:\Users\52383977802\Desktop\CursoBackEndSenaiSCS\Csharp\exercicios\5.1 - Exercicios POO Parte II\bin\Debug\net10.0\5.1 - Exercicios POO Parte II.pdb
+C:\Users\52383977802\Desktop\CursoBackEndSenaiSCS\Csharp\exercicios\5.1 - Exercicios POO Parte II\obj\Debug\net10.0\5.1 - Exercicios POO Parte II.dll
+C:\Users\52383977802\Desktop\CursoBackEndSenaiSCS\Csharp\exercicios\5.1 - Exercicios POO Parte II\obj\Debug\net10.0\refint\5.1 - Exercicios POO Parte II.dll
+C:\Users\52383977802\Desktop\CursoBackEndSenaiSCS\Csharp\exercicios\5.1 - Exercicios POO Parte II\obj\Debug\net10.0\5.1 - Exercicios POO Parte II.pdb
+C:\Users\52383977802\Desktop\CursoBackEndSenaiSCS\Csharp\exercicios\5.1 - Exercicios POO Parte II\obj\Debug\net10.0\5.1 - Exercicios POO Parte II.genruntimeconfig.cache
+C:\Users\52383977802\Desktop\CursoBackEndSenaiSCS\Csharp\exercicios\5.1 - Exercicios POO Parte II\obj\Debug\net10.0\ref\5.1 - Exercicios POO Parte II.dll
+C:\Users\52383977802\Desktop\CursoBackEndSenaiSCS\Csharp\exercicios\5.1 - Exercicios POO Parte II\obj\Debug\net10.0\5.1 - Ex.39F88F50.Up2Date
