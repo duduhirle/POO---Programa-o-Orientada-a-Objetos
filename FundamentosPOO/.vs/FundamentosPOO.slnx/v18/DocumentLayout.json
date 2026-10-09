@@ -1,14 +1,31 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\52383977802\\Desktop\\CursoBackEndSenaiSCS\\Csharp\\POO  - Programa\u00E7\u00E3o Orientada a Objetos\\FundamentosPOO\\",
+  "WorkspaceRootPath": "C:\\Users\\52383977802\\Desktop\\POO  - Programa\u00E7\u00E3o Orientada a Objetos\\FundamentosPOO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{63C930A9-B00C-874A-539B-3F531FCE76EF}|FundamentosPOO.csproj|c:\\users\\52383977802\\desktop\\cursobackendsenaiscs\\csharp\\poo  - programa\u00E7\u00E3o orientada a objetos\\fundamentospoo\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{63C930A9-B00C-874A-539B-3F531FCE76EF}|FundamentosPOO.csproj|c:\\users\\52383977802\\desktop\\poo  - programa\u00E7\u00E3o orientada a objetos\\fundamentospoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C930A9-B00C-874A-539B-3F531FCE76EF}|FundamentosPOO.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C930A9-B00C-874A-539B-3F531FCE76EF}|FundamentosPOO.csproj|c:\\users\\52383977802\\desktop\\poo  - programa\u00E7\u00E3o orientada a objetos\\fundamentospoo\\fundamentospoo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{63C930A9-B00C-874A-539B-3F531FCE76EF}|FundamentosPOO.csproj|solutionrelative:fundamentospoo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C930A9-B00C-874A-539B-3F531FCE76EF}|FundamentosPOO.csproj|c:\\users\\52383977802\\desktop\\poo  - programa\u00E7\u00E3o orientada a objetos\\fundamentospoo\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63C930A9-B00C-874A-539B-3F531FCE76EF}|FundamentosPOO.csproj|solutionrelative:pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63C930A9-B00C-874A-539B-3F531FCE76EF}|FundamentosPOO.csproj|c:\\users\\52383977802\\desktop\\cursobackendsenaiscs\\csharp\\poo  - programa\u00E7\u00E3o orientada a objetos\\fundamentospoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63C930A9-B00C-874A-539B-3F531FCE76EF}|FundamentosPOO.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63C930A9-B00C-874A-539B-3F531FCE76EF}|FundamentosPOO.csproj|c:\\users\\52383977802\\desktop\\poo  - programa\u00E7\u00E3o orientada a objetos\\fundamentospoo\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C930A9-B00C-874A-539B-3F531FCE76EF}|FundamentosPOO.csproj|solutionrelative:carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\52383977802\\Desktop\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\52383977802\\Desktop\\Carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\52383977802\\Desktop\\CursoBackEndSenaiSCS\\Csharp\\POO  - Programa\u00E7\u00E3o Orientada a Objetos\\PilaresPOO\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,39 +35,90 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\52383977802\\Desktop\\CursoBackEndSenaiSCS\\Csharp\\POO  - Programa\u00E7\u00E3o Orientada a Objetos\\FundamentosPOO\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\52383977802\\Desktop\\CursoBackEndSenaiSCS\\Csharp\\POO  - Programa\u00E7\u00E3o Orientada a Objetos\\FundamentosPOO\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAAeAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\52383977802\\Desktop\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\Program.cs",
+              "ToolTip": "C:\\Users\\52383977802\\Desktop\\Program.cs",
+              "RelativeToolTip": "..\\..\\Program.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T22:42:15.595Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
+              "WhenOpened": "2026-10-09T00:49:38.172Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Pedido.cs",
-              "DocumentMoniker": "C:\\Users\\52383977802\\Desktop\\CursoBackEndSenaiSCS\\Csharp\\POO  - Programa\u00E7\u00E3o Orientada a Objetos\\FundamentosPOO\\Pedido.cs",
-              "RelativeDocumentMoniker": "Pedido.cs",
-              "ToolTip": "C:\\Users\\52383977802\\Desktop\\CursoBackEndSenaiSCS\\Csharp\\POO  - Programa\u00E7\u00E3o Orientada a Objetos\\FundamentosPOO\\Pedido.cs",
-              "RelativeToolTip": "Pedido.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\52383977802\\Desktop\\POO  - Programa\u00E7\u00E3o Orientada a Objetos\\FundamentosPOO\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\52383977802\\Desktop\\POO  - Programa\u00E7\u00E3o Orientada a Objetos\\FundamentosPOO\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T22:42:16.655Z",
+              "WhenOpened": "2026-10-09T00:49:23.51Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\52383977802\\Desktop\\POO  - Programa\u00E7\u00E3o Orientada a Objetos\\FundamentosPOO\\Pedido.cs",
+              "RelativeDocumentMoniker": "Pedido.cs",
+              "ToolTip": "C:\\Users\\52383977802\\Desktop\\POO  - Programa\u00E7\u00E3o Orientada a Objetos\\FundamentosPOO\\Pedido.cs",
+              "RelativeToolTip": "Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T00:48:51.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\52383977802\\Desktop\\POO  - Programa\u00E7\u00E3o Orientada a Objetos\\FundamentosPOO\\Carro.cs",
+              "RelativeDocumentMoniker": "Carro.cs",
+              "ToolTip": "C:\\Users\\52383977802\\Desktop\\POO  - Programa\u00E7\u00E3o Orientada a Objetos\\FundamentosPOO\\Carro.cs",
+              "RelativeToolTip": "Carro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T00:48:48.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FundamentosPOO.csproj",
+              "DocumentMoniker": "C:\\Users\\52383977802\\Desktop\\POO  - Programa\u00E7\u00E3o Orientada a Objetos\\FundamentosPOO\\FundamentosPOO.csproj",
+              "RelativeDocumentMoniker": "FundamentosPOO.csproj",
+              "ToolTip": "C:\\Users\\52383977802\\Desktop\\POO  - Programa\u00E7\u00E3o Orientada a Objetos\\FundamentosPOO\\FundamentosPOO.csproj",
+              "RelativeToolTip": "FundamentosPOO.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-09T00:48:35.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\52383977802\\Desktop\\Carro.cs",
+              "RelativeDocumentMoniker": "..\\..\\Carro.cs",
+              "ToolTip": "C:\\Users\\52383977802\\Desktop\\Carro.cs",
+              "RelativeToolTip": "..\\..\\Carro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T00:39:02.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\52383977802\\Desktop\\CursoBackEndSenaiSCS\\Csharp\\POO  - Programa\u00E7\u00E3o Orientada a Objetos\\PilaresPOO\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\CursoBackEndSenaiSCS\\Csharp\\POO  - Programa\u00E7\u00E3o Orientada a Objetos\\PilaresPOO\\Program.cs",
+              "ToolTip": "C:\\Users\\52383977802\\Desktop\\CursoBackEndSenaiSCS\\Csharp\\POO  - Programa\u00E7\u00E3o Orientada a Objetos\\PilaresPOO\\Program.cs",
+              "RelativeToolTip": "..\\..\\CursoBackEndSenaiSCS\\Csharp\\POO  - Programa\u00E7\u00E3o Orientada a Objetos\\PilaresPOO\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T00:38:51.748Z"
             }
           ]
         }
