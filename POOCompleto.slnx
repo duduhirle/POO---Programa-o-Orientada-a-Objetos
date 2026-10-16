@@ -1,9 +1,0 @@
-<Solution>
-  <Folder Name="/Exercicios/">
-    <Project Path="Exercicios/5.1 - Exercicios POO Parte II/5.1 - Exercicios POO Parte II.csproj" />
-  </Folder>
-  <Folder Name="/Exercicios/5 -  Exercicios POO/">
-    <Project Path="Exercicios/5 -  Exercicios POO/5 - POO.csproj" />
-  </Folder>
-  <Project Path="FundamentosPOO/FundamentosPOO.csproj" />
-</Solution>
